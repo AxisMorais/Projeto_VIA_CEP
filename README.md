@@ -14,6 +14,9 @@ Spring Boot, Spring Web, Spring Data JPA, Hibernate, Jackson, RestClient, Lombok
 • API Externa:
 ViaCEP
 
+• Banco de dados:    
+MySQL 8.0
+
 
 
 

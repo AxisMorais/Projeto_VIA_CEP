@@ -1,3 +1,5 @@
+![Pagina Acesso](https://github.com/AxisMorais/Projeto_VIA_CEP/blob/main/sistema.gif )
+
 # Projeto_VIA_CEP
 
 Construção de uma página no qual o usuário informa o número de um CEP retornando os dados referentes aquele CEP, como logradouro, bairro, cidade. 

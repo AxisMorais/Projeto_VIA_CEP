@@ -9,13 +9,13 @@ Construção de uma página no qual o usuário informa o número de um CEP retor
 > HTML5, JavaScript, CSS3.  
 
 #### • Back End:  
-Spring Boot, Spring Web, Spring Data JPA, Hibernate, Jackson, RestClient, Lombok,Thymeleaf, Spring Boot DevTools, Maven
+> Spring Boot, Spring Web, Spring Data JPA, Hibernate, Jackson, RestClient, Lombok,Thymeleaf, Spring Boot DevTools, Maven
 
 • API Externa:
-ViaCEP
+> ViaCEP
 
 • Banco de dados:    
-MySQL 8.0
+> MySQL 8.0
 
 
 

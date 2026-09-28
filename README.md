@@ -5,8 +5,14 @@ Construção de uma página no qual o usuário informa o número de um CEP sendo
 
 
 # Tecnologias utilizadas:
-• Front End
-HTML5, JavaScript, CSS3.
+• Front End:
+HTML5, JavaScript, CSS3.  
+
+• Back End:
+Spring Boot, Spring Web, Spring Data JPA, Hibernate, Jackson, RestClient, Lombok,Thymeleaf, Spring Boot DevTools, Maven
+
+•API Externa:
+ViaCEP
 
 
 

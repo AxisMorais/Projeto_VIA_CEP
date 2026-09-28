@@ -5,7 +5,7 @@ Construção de uma página no qual o usuário informa o número de um CEP sendo
 
 
 # Tecnologias utilizadas:
-• Front End:
+• Front End:  
 HTML5, JavaScript, CSS3.  
 
 • Back End:

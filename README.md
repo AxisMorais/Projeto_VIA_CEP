@@ -19,6 +19,7 @@ Para a Consulta dos dados foi utilizado a API Via CEP.
 • Banco de dados:    
 > MySQL 8.0
 
-
+#Estrutura de pastas:
+![Pagina Acesso](https://github.com/AxisMorais/Projeto_VIA_CEP/blob/main/EstruturaDePastas.png)
 
 

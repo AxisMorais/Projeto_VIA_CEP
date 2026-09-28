@@ -4,7 +4,7 @@ Construção de uma página no qual o usuário informa o número de um CEP sendo
 • Para a Consulta dos dados foi utilizado a API Via CEP.
 
 <hr>
-#Tecnologias utilizadas:
+# Tecnologias utilizadas:
 
 >> Front End
 

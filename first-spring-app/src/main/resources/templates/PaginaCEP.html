@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>CEP - Localizador</title>
+    <link rel="stylesheet" href="/css/estilo_diferente.css" type="text/css">
+</head>
+<body>
+    <center>
+        
+        <h1> BUSCA CEP E LOCALIZAÇÃO - API CEP </h1>
+
+        <input type="text" id="cep" placeholder="Informe o CEP">
+        <button onclick="buscarCEP()">BUSCAR</button>
+       <p id="texto"></p>
+    </center>
+    <h1>Resultados</h1>
+    <p id="dados"></p>
+    <br>
+    
+    <button onclick="salvarCep()">Salvar </button>
+	<button onclick="listarTodosCeps()"> Listar Todos </button>
+	<div id="listaCeps"></div>
+     
+
+
+    <script src="/js/scriptTeste.js"></script>
+</body>
+</html>
